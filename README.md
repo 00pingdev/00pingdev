@@ -1,9 +1,9 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Ping
+# 👋 Hey, I'm Noah
 
-### Software Developer • Tool Builder • Cyber Security Enthusiast 🇩🇰
+### Software Developer • Tool Builder  🇩🇰
 
 I build developer tools, desktop applications, game systems, backend services and whatever else sounds interesting.
 
@@ -17,7 +17,7 @@ Currently focused on **C#**, **software development**, **developer tooling** and
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔨 Git Forge
 > A modern desktop Git client built to make Git workflows faster, cleaner and easier to understand.
@@ -64,7 +64,7 @@ The goal is to create one application containing useful tools for developers, de
 
 ---
 
-### 🌆 FiveM Development
+### FiveM Development
 
 I have also spent a lot of time developing systems for **FiveM / GTA V roleplay servers**.
 
@@ -92,22 +92,13 @@ Technologies I've worked with include:
 
 ---
 
-## 🧪 Other Things I've Built
+## Other Things I've Built
 
 I like experimenting with different technologies instead of staying inside one type of development.
 
 Some of my other projects include:
 
-### 🎮 Game Development
-- Roblox systems and game prototypes
-- Custom combat systems
-- Simulator mechanics
-- Building systems
-- DataStores
-- Multiplayer game logic
-- Unreal Engine projects
-
-### 🧱 Minecraft Development
+### Minecraft Development
 - Java plugins
 - Forge mods
 - Datapacks
@@ -115,14 +106,14 @@ Some of my other projects include:
 - GUI systems
 - Progression systems
 
-### 🌐 Web Development
+### Web Development
 - React applications
 - Portfolio websites
 - Backend APIs
 - Node.js services
 - Database-backed applications
 
-### 🖥 Desktop Applications
+### Desktop Applications
 - C# WinForms applications
 - Developer tools
 - Custom UI components
@@ -242,7 +233,7 @@ I'd rather build something weird, difficult or unnecessarily advanced.
 
 Want to talk programming, collaborate on something or just show me something cool?
 
-**Discord:** `@00.ping`
+**Discord:** `@bjorndev`
 
 **GitHub:** `@00pingdev`
 
@@ -252,6 +243,6 @@ Want to talk programming, collaborate on something or just show me something coo
 
 ### Building things because figuring out how they work is half the fun.
 
-<sub>Ping • Denmark 🇩🇰</sub>
+<sub>Noah • Denmark 🇩🇰</sub>
 
 </div>
