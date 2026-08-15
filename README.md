@@ -1,103 +1,258 @@
-<h1 align="left">Hey 👋, I'm Ping 🇩🇰</h1>
-
-###
-
-<h4 align="left">A dedicated student learning software development and cyber security based in Denmark. I specialize in back-end development, and I'm passionate about building robust and user-friendly softwares.</h4>
-
-###
-
+````html
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=00pingdev.00pingdev&"  />
+
+# 👋 Hey, I'm Ping
+
+### Software Developer • Tool Builder • Cyber Security Enthusiast 🇩🇰
+
+I build developer tools, desktop applications, game systems, backend services and whatever else sounds interesting.
+
+Currently focused on **C#**, **software development**, **developer tooling** and **cyber security**.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=00pingdev&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+
 </div>
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🚀 Featured Projects
 
-###
+### 🔨 Git Forge
+> A modern desktop Git client built to make Git workflows faster, cleaner and easier to understand.
 
-<h4 align="left">‣ Experienced in Software Development<br>‣ Currently learning Cyber Security and C#<br>‣ You can reach me out on discord (@00.ping)<br>‣ My pronouns are he/him.</h4>
+Git Forge is one of my main software projects and focuses heavily on providing a polished developer experience instead of relying entirely on command-line Git.
 
-###
+**Highlights**
+- Modern desktop interface
+- Repository management
+- Branch management
+- Commit workflows
+- Push / Pull / Fetch operations
+- Git status visualization
+- Repository history
+- Developer-focused UX
+- Built as a native desktop application
 
-<h2 align="left">Skills</h2>
+**Tech:** `C#` `.NET` `Git`
 
-###
+---
 
-<p align="left">Here's a glimpse of the skills i have:<br><br><strong>‣ Front-End Technologies:</strong> React.js, HTML5, Redux.js <br><strong>‣ Back-End Technologies:</strong> Node.js, Express.Js, Apollo<br><strong>‣ Deployment:</strong> Vercel<br><strong>‣ Programming Languages:</strong> JavaScript, Python, C#, C++, Java, Lua, TS<br><strong>‣ Databases:</strong> MySQL, MongoDB, MariaDB<br><strong>‣ Bundle Technologies:</strong> Vite, Webpack<br><strong>‣ Styling:</strong> TailwindCSS, SASS/SCSS, Bootstrap, CSS3</p>
+### ❄️ Blizzard Engine
+> An advanced desktop developer and diagnostics environment.
 
-###
+Blizzard started as an experiment with custom C# desktop interfaces and evolved into a larger developer toolbox.
 
-<h2 align="left">What I'm doing presently?</h2>
+The goal is to create one application containing useful tools for developers, debugging, networking and system inspection.
 
-###
+**Current / Planned Systems**
+- Network utilities
+- Port scanner
+- Process viewer
+- Memory inspection tools
+- System information
+- Developer utilities
+- Diagnostics dashboard
+- Custom modern UI framework
+- Real-time application statistics
+- Modular tool architecture
 
-<p align="left">‣ I'm currently working on small fun projects in C# and the cyber-security branch. I do have a larger project on the sides.<br>‣ I'm currently learning Cyber Security.<br>‣ Ask me anything about coding</p>
+**Tech:** `C#` `.NET` `WinForms` `Windows APIs`
 
-###
+> Blizzard is still under active development.
+
+---
+
+### 🌆 FiveM Development
+
+I have also spent a lot of time developing systems for **FiveM / GTA V roleplay servers**.
+
+I've worked with full server systems rather than only simple scripts.
+
+Some of the systems I've developed include:
+
+- Drug production systems
+- Harvesting / processing / selling
+- Quality-based item systems
+- XP and progression systems
+- Police risk mechanics
+- Undercover systems
+- Interactive NPCs
+- Database persistence
+- Custom UI menus
+- Inventory integrations
+- Target interactions
+- Server-side validation
+- Client/server architecture
+
+Technologies I've worked with include:
+
+`Lua` `ESX` `ox_lib` `ox_inventory` `ox_target` `MySQL`
+
+---
+
+## 🧪 Other Things I've Built
+
+I like experimenting with different technologies instead of staying inside one type of development.
+
+Some of my other projects include:
+
+### 🎮 Game Development
+- Roblox systems and game prototypes
+- Custom combat systems
+- Simulator mechanics
+- Building systems
+- DataStores
+- Multiplayer game logic
+- Unreal Engine projects
+
+### 🧱 Minecraft Development
+- Java plugins
+- Forge mods
+- Datapacks
+- Custom mobs
+- GUI systems
+- Progression systems
+
+### 🌐 Web Development
+- React applications
+- Portfolio websites
+- Backend APIs
+- Node.js services
+- Database-backed applications
+
+### 🖥 Desktop Applications
+- C# WinForms applications
+- Developer tools
+- Custom UI components
+- System utilities
+
+---
+
+## 👨‍💻 About Me
+
+```txt
+Location      Denmark 🇩🇰
+Focus         Software Development / Cyber Security
+Main Language C#
+Interests     Developer Tools, Backend Systems, Networking,
+              Cyber Security, Game Development
+Currently     Building Git Forge & Blizzard Engine
+````
+
+I enjoy building projects that teach me something new — especially projects where I can work with systems, networking, architecture and custom interfaces.
+
+I don't really enjoy making the same basic CRUD application over and over.
+
+I'd rather build something weird, difficult or unnecessarily advanced.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,java,js,ts,lua" />
 </div>
 
-###
+### Frontend
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,sass,bootstrap" />
+</div>
+
+### Backend
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</div>
+
+### Databases
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</div>
+
+### Tools
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vite,webpack,vercel" />
+</div>
+
+---
+
+## 🔬 Currently Exploring
+
+```txt
+→ Advanced C# / .NET
+→ Windows application development
+→ Networking
+→ Cyber security
+→ Memory & process inspection
+→ Developer tooling
+→ Software architecture
+→ Custom desktop UI systems
+```
+
+---
+
+## 📊 GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=00pingdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=00pingdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=00pingdev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=00pingdev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=00pingdev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=00pingdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00pingdev&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
-###
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=00pingdev&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=00pingdev&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🟡 Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/00pingdev/00pingdev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/00pingdev/00pingdev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/00pingdev/00pingdev/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/00pingdev/00pingdev/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
+
+## 📫 Contact
+
+Want to talk programming, collaborate on something or just show me something cool?
+
+**Discord:** `@00.ping`
+
+**GitHub:** `@00pingdev`
+
+---
+
+<div align="center">
+
+### Building things because figuring out how they work is half the fun.
+
+<sub>Ping • Denmark 🇩🇰</sub>
+
+</div>
+```
