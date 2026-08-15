@@ -1,4 +1,4 @@
-````html
+
 <div align="center">
 
 # 👋 Hey, I'm Ping
@@ -255,4 +255,3 @@ Want to talk programming, collaborate on something or just show me something coo
 <sub>Ping • Denmark 🇩🇰</sub>
 
 </div>
-```
